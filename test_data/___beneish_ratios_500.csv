@@ -1,0 +1,589 @@
+Company,Country,Industry,DSRI,GMI,AQI,SGI,DEPI,SGAI,LVGI,TATA,Label
+Valeant Pharmaceuticals,Canada,Pharmaceuticals,1.716,1.425,1.638,1.862,1.181,0.989,1.509,0.1611,Fraud
+GE Capital 2014,USA,Financial Services,1.236,1.069,1.416,1.215,1.028,1.035,1.514,0.0573,Fraud
+Veeva Systems,USA,Software,0.896,0.969,1.096,1.105,1.067,1.035,0.891,-0.0033,Legit
+Merck KGaA,Germany,Pharmaceuticals,1.057,1.117,1.013,1.192,1.015,0.985,0.985,-0.016,Legit
+Ecolab Inc,USA,Chemicals,1.05,1.032,0.955,0.945,1.083,0.949,0.998,-0.045,Legit
+Panasonic Holdings,Japan,Electronics,0.863,0.965,1.145,0.97,0.94,1.048,0.929,-0.032,Legit
+Fazal Cloth Mills,Pakistan,Textiles,1.811,1.179,1.441,2.068,1.099,1.031,1.218,0.1867,Fraud
+Wolters Kluwer,Netherlands,Software,0.936,0.882,1.025,1.202,0.991,0.91,1.132,-0.0192,Legit
+Twilio Inc,USA,Software,0.877,0.875,1.001,1.204,1.024,1.04,1.137,-0.0497,Legit
+Meta Platforms,USA,Social Media,0.845,0.928,0.966,1.121,0.96,1.01,1.052,-0.052,Legit
+Airfinance Journal fraud,Ireland,Financial Services,1.522,1.263,1.596,1.472,1.126,1.029,1.629,0.1115,Fraud
+JBS SA irregularities,Brazil,Food & Beverages,1.828,1.401,1.729,1.692,1.175,1.082,1.186,0.1739,Fraud
+Reckitt Benckiser,UK,Consumer Goods,0.998,1.099,1.084,1.095,1.007,1.042,0.995,-0.0021,Legit
+Metrogas Argentina,Argentina,Utilities,1.518,1.174,1.775,1.976,1.113,1.156,1.087,0.128,Fraud
+Sanofi,France,Pharmaceuticals,1.042,0.879,0.926,1.112,0.941,0.941,1.076,-0.011,Legit
+Pace Pakistan,Pakistan,Real Estate,1.318,1.218,1.688,1.184,1.062,1.031,1.552,0.0973,Fraud
+Alfa Laval,Sweden,Industrial,0.899,0.907,1.001,1.022,0.952,0.932,1.089,0.0022,Legit
+Unum Group,USA,Insurance,0.86,0.896,1.138,1.002,0.965,0.972,0.946,-0.0032,Legit
+Air Arabia fraud,UAE,Aviation,1.505,1.275,1.393,1.48,1.105,0.996,1.538,0.1037,Fraud
+Murata Manufacturing,Japan,Electronics,1.033,1.097,0.967,1.191,1.045,0.991,1.009,-0.0028,Legit
+Under Armour 2018,USA,Consumer Goods,1.519,1.339,1.421,1.723,1.104,1.046,1.219,0.1237,Fraud
+Datadog Inc,USA,Software,1.11,1.123,1.125,1.142,1.029,0.895,1.139,-0.0052,Legit
+Halma PLC,UK,Industrial,1.01,1.036,0.933,1.076,1.043,0.908,1.094,-0.0547,Legit
+Lannett Company,USA,Pharmaceuticals,1.375,1.213,1.337,1.319,1.075,1.018,1.433,0.0795,Fraud
+DG Khan Cement,Pakistan,Construction,0.921,0.977,1.15,1.165,1.013,0.922,0.89,0.009,Legit
+Kakao Corporation,South Korea,Technology,0.858,0.872,0.963,1.105,0.987,1.031,1.034,-0.0035,Legit
+CNOOC Limited,China,Oil & Gas,1.1,0.927,1.062,1.253,1.044,1.07,0.866,-0.036,Legit
+Gilead Sciences,USA,Biotechnology,1.034,0.896,1.095,1.221,1.03,1.028,1.079,-0.0421,Legit
+Shire PLC,UK,Pharmaceuticals,0.928,0.902,1.089,1.065,1.096,1.037,1.147,-0.0067,Legit
+Iberdrola,Spain,Utilities,0.889,0.913,1.001,1.174,0.969,1.059,1.13,-0.0042,Legit
+Swedish Match,Sweden,Consumer Goods,0.937,1.058,0.923,1.156,1.039,0.901,0.904,-0.0366,Legit
+Cherat Cement,Pakistan,Construction,1.124,0.895,1.158,1.046,1.04,1.024,0.964,-0.006,Legit
+Metsä Group,Finland,Paper & Forest,1.052,1.01,1.083,1.055,0.936,0.987,1.023,-0.0113,Legit
+Amadeus IT Group,Spain,Software,1.141,0.91,1.085,1.178,1.021,1.042,1.033,-0.0055,Legit
+Agrokor Croatia,Croatia,Food & Beverages,1.562,1.25,1.275,2.109,1.258,1.118,1.092,0.1258,Fraud
+China Huishan Dairy,China,Food & Beverages,1.882,1.577,1.712,1.586,1.197,0.945,1.733,0.1848,Fraud
+BRF SA,Brazil,Food & Beverages,1.454,1.482,1.44,1.8,1.092,1.095,1.227,0.1661,Fraud
+Dewan Farooque Motors,Pakistan,Automotive,1.404,1.223,1.342,1.277,1.072,1.007,1.565,0.0865,Fraud
+United Bank Limited,Pakistan,Banking,1.062,1.073,1.113,1.196,1.032,1.055,1.115,-0.057,Legit
+ABB Ltd,Switzerland,Industrial,0.921,1.102,1.073,1.296,0.998,1.063,0.906,0.003,Legit
+Gul Ahmed Textile,Pakistan,Textiles,0.841,1.016,1.018,1.264,0.904,1.002,0.994,0.006,Legit
+Novartis AG,Switzerland,Pharmaceuticals,1.046,1.005,1.066,0.969,0.968,0.917,1.159,-0.027,Legit
+Telecard Pakistan,Pakistan,Telecommunications,1.512,1.292,1.418,1.297,1.115,1.017,1.484,0.1024,Fraud
+Wirecard AG,Germany,Fintech,1.709,1.394,1.87,1.888,1.208,0.96,1.495,0.1553,Fraud
+Nestle Pakistan,Pakistan,Food & Beverages,1.063,0.924,1.097,0.946,0.978,0.917,0.874,-0.016,Legit
+Telecard 2010,Pakistan,Telecommunications,1.65,1.259,1.272,2.085,1.2,1.052,1.285,0.1384,Fraud
+Manulife Financial,Canada,Insurance,0.95,1.056,1.046,0.997,0.95,0.969,0.997,-0.0236,Legit
+Mercedes-Benz Group,Germany,Automotive,0.874,0.979,1.035,1.072,1.06,0.932,1.012,0.006,Legit
+Meezan Bank,Pakistan,Banking,0.843,1.102,1.069,1.137,0.987,0.881,0.871,-0.034,Legit
+Tongaat Hulett,South Africa,Agriculture,1.581,1.285,1.691,1.337,1.152,1.034,1.641,0.1152,Fraud
+Lippo Group,Indonesia,Real Estate,1.681,1.242,1.602,1.944,1.278,1.057,1.363,0.1507,Fraud
+Gowex,Spain,Technology,1.804,1.467,1.776,1.556,1.075,1.111,1.344,0.1897,Fraud
+Medtronic,USA,Medical Devices,0.982,1.05,1.174,1.078,1.019,0.984,1.01,-0.06,Legit
+Inditex,Spain,Retail,1.017,1.029,0.942,1.042,1.1,1.019,1.022,-0.0089,Legit
+BHP Group,Australia,Mining,0.881,0.936,1.072,1.258,1.083,0.949,0.956,0.007,Legit
+Suncor Energy,Canada,Oil & Gas,1.099,1.039,1.0,1.097,0.93,0.901,0.9,-0.0011,Legit
+Apple Inc,USA,Consumer Electronics,1.136,1.132,1.13,1.006,1.012,1.024,0.908,0.009,Legit
+Dialog Axiata,Sri Lanka,Telecommunications,1.579,1.484,1.622,1.784,1.2,1.109,1.264,0.1579,Fraud
+Petrobras 2013,Brazil,Oil & Gas,1.779,1.269,1.453,2.071,1.076,1.083,1.369,0.1896,Fraud
+Silvercorp Metals,Canada,Mining,1.709,1.468,1.377,1.686,1.167,1.126,1.362,0.1353,Fraud
+Telenor,Norway,Telecommunications,1.085,1.1,0.924,1.008,0.92,0.896,1.043,-0.0128,Legit
+Kirin Holdings,Japan,Beverages,1.056,1.08,1.147,0.975,0.919,0.917,0.926,-0.0234,Legit
+CD Projekt fraud,Poland,Gaming,1.887,1.512,1.43,2.099,1.151,1.159,1.208,0.1694,Fraud
+NMC Health,UAE,Healthcare,1.679,1.441,1.689,1.613,1.179,1.015,1.819,0.1504,Fraud
+Petrobras (clean years),Brazil,Oil & Gas,1.167,0.987,1.173,1.004,0.922,1.031,1.037,-0.052,Legit
+Generali Group,Italy,Insurance,1.075,1.094,1.164,0.983,0.974,0.991,0.963,-0.027,Legit
+Azgard Nine 2010,Pakistan,Textiles,1.864,1.443,1.625,2.241,1.204,1.011,1.31,0.1094,Fraud
+AmeriQuest Mortgage,USA,Financial Services,1.625,1.296,1.705,1.501,1.143,1.021,1.742,0.1575,Fraud
+Herbalife 2012,USA,Consumer Goods,1.379,1.215,1.312,1.682,1.089,1.018,1.327,0.0816,Fraud
+SoftBank Corp,Japan,Telecommunications,1.111,1.116,1.087,1.192,0.982,1.042,0.937,-0.0126,Legit
+Adelphia Communications,USA,Telecommunications,1.73,1.406,1.513,1.532,1.158,0.965,1.843,0.154,Fraud
+Francesca Holdings,USA,Retail,1.666,1.361,1.285,1.492,1.112,1.051,1.23,0.0918,Fraud
+JPMorgan Chase,USA,Banking,1.099,1.015,1.1,1.093,1.024,1.004,1.096,0.008,Legit
+MiMedx Group,USA,Healthcare,1.689,1.377,1.27,1.757,1.118,1.027,1.271,0.1452,Fraud
+Olympus 2009,Japan,Electronics,1.658,1.363,1.34,1.692,1.134,1.104,1.116,0.1003,Fraud
+Bunny's Limited,Pakistan,Food & Beverages,1.517,1.32,1.309,1.439,1.079,1.035,1.274,0.0867,Fraud
+Airbus SE,France,Aerospace,0.965,0.992,1.079,1.264,0.951,0.893,1.099,-0.0343,Legit
+Millat Tractors,Pakistan,Industrial,1.07,1.012,0.946,1.254,1.067,1.066,1.038,-0.056,Legit
+Iqvia Holdings 2019,USA,Healthcare,1.553,1.316,1.688,1.509,1.142,1.037,1.628,0.1266,Fraud
+Theranos 2014,USA,Healthcare Tech,1.639,1.286,1.77,1.709,1.102,1.082,1.179,0.107,Fraud
+Julius Baer,Switzerland,Banking,1.149,1.082,1.12,0.986,0.95,1.005,1.123,-0.0217,Legit
+Dawood Hercules,Pakistan,Conglomerate,0.94,1.051,0.966,1.224,1.089,0.916,1.007,-0.011,Legit
+Dollar General,USA,Retail,1.321,1.216,1.182,1.214,1.09,1.015,1.185,0.0428,Fraud
+UnitedHealth Group,USA,Healthcare Insurance,0.887,1.104,0.921,1.223,0.929,0.913,0.943,-0.0445,Legit
+Lordstown Motors,USA,Electric Vehicles,1.824,1.599,1.528,2.762,1.178,0.943,1.258,0.1697,Fraud
+GN Store Nord,Denmark,Electronics,1.493,1.558,1.623,1.702,1.095,1.098,1.222,0.0857,Fraud
+Mallinckrodt,Ireland,Pharmaceuticals,1.489,1.331,1.569,1.359,1.101,1.006,1.682,0.1163,Fraud
+Ferrovial,Spain,Construction,0.92,1.035,1.058,0.981,0.961,0.986,1.016,-0.0449,Legit
+Deutsche Telekom,Germany,Telecommunications,0.976,1.049,0.984,1.123,0.956,0.941,0.917,-0.048,Legit
+Kohinoor Textile,Pakistan,Textiles,1.413,1.205,1.318,1.27,1.115,1.047,1.523,0.0783,Fraud
+Winsome Diamonds,India,Jewellery,1.646,1.229,1.514,2.181,1.188,1.121,1.323,0.163,Fraud
+Lehman 2007,USA,Financial Services,1.722,1.253,1.609,2.176,1.148,1.045,1.369,0.1336,Fraud
+Hyundai Motor,South Korea,Automotive,1.126,0.926,1.014,1.098,0.909,0.914,0.957,-0.008,Legit
+Alphabet Inc,USA,Technology,0.893,0.923,1.04,1.272,0.968,1.018,1.068,-0.038,Legit
+Johnson & Johnson,USA,Healthcare,1.012,0.905,1.126,1.29,1.008,1.067,1.098,-0.007,Legit
+Tokyo Electron,Japan,Semiconductors,0.955,0.938,1.048,1.104,0.92,1.067,1.006,-0.0046,Legit
+NovaBay Pharma,USA,Pharmaceuticals,1.588,1.31,1.446,1.809,1.13,1.005,1.219,0.1331,Fraud
+BT Group 2016,UK,Telecommunications,1.648,1.391,1.573,2.203,1.105,1.125,1.119,0.1205,Fraud
+General Dynamics,USA,Defense,1.147,0.956,1.14,1.101,1.078,1.028,1.006,-0.049,Legit
+Intertek Group,UK,Testing Services,1.094,0.958,1.155,1.189,0.94,0.982,1.015,-0.0523,Legit
+African Bank,South Africa,Banking,1.339,1.187,1.395,1.204,1.07,1.003,1.863,0.0777,Fraud
+Schneider Electric,France,Industrial,0.999,1.11,1.05,1.204,1.045,0.904,1.045,-0.0057,Legit
+Under Armour 2017,USA,Consumer Goods,1.934,1.538,1.762,1.65,1.167,1.044,1.172,0.0817,Fraud
+Atlas Honda,Pakistan,Automotive,0.896,1.077,1.033,1.074,0.937,1.012,1.004,-0.051,Legit
+Vesttoo Insurance,Israel,Insurance,1.88,1.56,1.74,2.165,1.065,1.128,1.15,0.182,Fraud
+Pinnacle Foods fraud,USA,Food & Beverages,1.29,1.234,1.338,1.242,1.058,1.033,1.24,0.0689,Fraud
+Colgate-Palmolive,USA,Consumer Goods,1.168,1.055,1.001,1.118,1.084,0.966,0.92,-0.002,Legit
+Bestway Cement fraud,Pakistan,Construction,1.773,1.5,1.634,2.18,1.202,1.059,1.185,0.1417,Fraud
+Westpac Banking,Australia,Banking,0.946,0.886,0.998,0.937,0.929,0.979,0.972,0.003,Legit
+Quindell,UK,Insurance Tech,1.874,1.625,1.669,2.153,1.178,0.946,1.296,0.172,Fraud
+GlaxoSmithKline Pakistan,Pakistan,Pharmaceuticals,0.837,1.041,1.056,1.215,1.059,0.91,0.999,-0.029,Legit
+MCB Bank,Pakistan,Banking,0.934,0.917,1.185,0.989,1.027,0.907,0.994,0.01,Legit
+Amgen Inc,USA,Biotechnology,0.861,0.942,1.078,1.121,0.965,1.069,1.024,-0.0278,Legit
+KASB Bank 2013,Pakistan,Banking,1.803,1.228,1.638,1.72,1.167,1.155,1.319,0.0856,Fraud
+Akazoo Music,Greece,Technology,1.847,1.512,1.74,1.722,1.233,1.027,1.328,0.1737,Fraud
+Sherwin-Williams,USA,Chemicals,0.926,0.904,0.967,1.088,1.011,0.963,0.878,-0.0338,Legit
+HubSpot Inc,USA,Software,1.11,0.933,1.067,1.113,0.979,0.946,0.968,-0.035,Legit
+MTN Group,South Africa,Telecommunications,0.881,1.094,1.175,1.128,1.011,1.004,1.078,-0.028,Legit
+Maple Leaf Cement fraud,Pakistan,Construction,1.338,1.23,1.391,1.29,1.065,1.01,1.429,0.0594,Fraud
+Luckin Coffee,China,Food & Beverages,2.12,1.776,1.582,3.476,1.263,0.902,1.309,0.2398,Fraud
+Goldman Sachs,USA,Financial Services,0.842,1.031,0.934,1.126,0.938,1.023,1.007,-0.052,Legit
+JD.com,China,E-commerce,1.175,1.095,1.061,1.059,0.993,1.024,0.899,0.004,Legit
+Perion Network,Israel,Technology,1.58,1.546,1.742,1.926,1.16,1.06,1.147,0.1866,Fraud
+Markel Corporation,USA,Insurance,0.857,0.963,0.922,0.985,1.063,1.063,1.017,-0.0253,Legit
+Monitronics,USA,Security Services,1.386,1.247,1.644,1.257,1.098,1.021,1.691,0.1079,Fraud
+Saradha Group,India,Financial Services,1.901,1.622,1.718,2.117,1.234,0.93,1.533,0.2177,Fraud
+Ebix Inc 2022,USA,Insurance Software,1.918,1.19,1.833,1.659,1.272,1.052,1.076,0.125,Fraud
+Enron Corporation,USA,Energy,1.457,1.296,1.715,1.786,1.072,1.088,1.504,0.1061,Fraud
+Habib Bank Limited,Pakistan,Banking,1.162,0.975,0.981,1.157,0.987,1.052,0.87,0.003,Legit
+Siemens AG,Germany,Industrial,1.164,0.927,1.074,1.199,0.891,0.886,0.992,-0.042,Legit
+Michelin Group,France,Automotive,0.88,0.966,1.142,1.185,1.079,0.96,1.152,-0.0252,Legit
+Eni SpA,Italy,Oil & Gas,0.999,1.033,0.992,1.256,0.997,1.035,1.069,-0.0372,Legit
+Tenaris SA,Luxembourg,Steel,0.935,0.945,0.972,1.173,0.963,0.953,1.141,-0.0073,Legit
+Countrywide Financial,USA,Financial Services,1.534,1.313,1.758,1.513,1.138,1.044,1.737,0.1488,Fraud
+Hascol 2018,Pakistan,Oil & Gas,1.519,1.454,1.365,1.803,1.278,1.112,1.224,0.1537,Fraud
+SEI Investments,USA,Financial Services,1.05,0.962,1.082,0.955,1.097,1.012,0.986,-0.0098,Legit
+Longtop Financial,China,Financial Services,1.804,1.555,1.908,1.77,1.241,0.917,1.423,0.2015,Fraud
+Naspers,South Africa,Technology,0.871,0.917,1.034,0.97,0.903,1.0,1.162,-0.032,Legit
+Crazy Eddie,USA,Retail Electronics,1.847,1.568,1.707,1.971,1.251,0.921,1.323,0.1931,Fraud
+KASB Bank 2012,Pakistan,Banking,1.775,1.544,1.348,1.613,1.084,1.099,1.13,0.1446,Fraud
+Mowi ASA,Norway,Food & Beverages,0.886,1.042,0.975,1.039,0.912,1.061,1.125,-0.0003,Legit
+Beiersdorf AG,Germany,Consumer Goods,1.013,1.102,1.133,1.175,1.085,1.005,1.1,-0.0245,Legit
+Waste Management,USA,Waste Services,1.27,1.163,1.416,1.148,1.293,0.967,1.291,0.0711,Fraud
+Anthem Inc,USA,Healthcare Insurance,1.111,0.988,1.086,1.152,1.019,0.894,1.098,-0.0404,Legit
+Tata Consultancy,India,IT Services,0.87,1.082,0.917,0.961,0.911,0.89,0.884,-0.004,Legit
+Rino International,China,Industrial,1.517,1.401,1.704,1.612,1.24,1.164,1.076,0.078,Fraud
+Zurich Insurance,Switzerland,Insurance,1.018,0.902,1.077,1.044,0.89,0.893,0.852,-0.03,Legit
+Lincoln National,USA,Insurance,1.037,0.921,1.068,1.068,1.041,0.927,1.088,-0.0065,Legit
+Getback SA,Poland,Financial Services,1.577,1.268,1.61,2.249,1.168,1.034,1.218,0.1147,Fraud
+HeidelbergCement,Germany,Construction,1.128,0.986,0.942,1.165,1.069,0.948,0.971,-0.0511,Legit
+Odebrecht SA,Brazil,Construction,1.469,1.411,1.301,1.637,1.184,1.059,1.368,0.0886,Fraud
+InVivo Therapeutics,USA,Biotechnology,1.66,1.232,1.544,2.179,1.235,1.037,1.068,0.1343,Fraud
+Sasol Limited,South Africa,Chemicals,1.108,1.019,1.033,1.142,1.11,0.904,1.037,-0.041,Legit
+WorldCom 2000,USA,Telecommunications,1.545,1.393,1.739,1.535,1.237,1.122,1.152,0.0929,Fraud
+Broadridge Financial,USA,Financial Services,1.014,1.076,1.01,1.236,1.007,1.005,0.895,-0.0089,Legit
+Qwest Communications,USA,Telecommunications,1.646,1.436,1.513,1.769,1.176,0.972,1.477,0.1526,Fraud
+Yara International,Norway,Chemicals,0.933,1.082,1.103,1.045,1.02,1.011,0.963,-0.0369,Legit
+Tri-Pack Films,Pakistan,Packaging,1.722,1.534,1.398,1.576,1.241,1.156,1.14,0.122,Fraud
+T Rowe Price,USA,Financial Services,1.149,0.982,0.923,1.025,1.002,0.983,1.038,-0.0205,Legit
+Aralez Pharma,Canada,Pharmaceuticals,1.774,1.541,1.517,1.922,1.202,1.155,1.313,0.0832,Fraud
+Bumi Resources,Indonesia,Coal Mining,1.61,1.393,1.641,1.836,1.115,1.145,1.106,0.1192,Fraud
+Kering Group,France,Luxury Goods,0.986,0.946,0.931,1.006,0.908,1.058,1.019,0.0043,Legit
+OHL Group,Spain,Construction,1.703,1.336,1.689,1.825,1.204,1.035,1.195,0.1865,Fraud
+WorldCom Inc,USA,Telecommunications,1.625,1.329,2.35,1.528,1.198,0.913,1.667,0.1913,Fraud
+Equinor ASA,Norway,Oil & Gas,0.919,0.96,0.989,1.249,1.045,0.91,1.105,-0.0298,Legit
+Dewan Farooque 2008,Pakistan,Automotive,1.56,1.184,1.722,2.167,1.149,1.109,1.091,0.1819,Fraud
+Nidec Corporation,Japan,Industrial,1.047,1.11,1.132,0.971,1.045,0.924,0.948,-0.0146,Legit
+Equity Funding Corp,USA,Insurance,1.744,1.473,1.806,1.562,1.182,0.981,1.671,0.1724,Fraud
+Petron Corporation,Philippines,Oil & Gas,1.408,1.239,1.474,1.268,1.078,1.053,1.498,0.1042,Fraud
+Leonardo SpA,Italy,Aerospace,0.863,0.886,1.03,1.1,0.941,0.999,0.961,-0.0119,Legit
+Lucky Cement,Pakistan,Construction,0.93,0.98,1.145,0.963,0.993,0.996,1.03,-0.051,Legit
+Henkel AG,Germany,Consumer Goods,0.879,0.922,0.955,1.201,0.905,0.99,0.977,-0.0068,Legit
+Weatherford Intl,Ireland,Oil Services,1.773,1.208,1.371,1.584,1.061,1.082,1.236,0.1085,Fraud
+Hydro ASA,Norway,Aluminium,1.098,1.108,1.061,1.259,1.011,0.914,0.94,-0.0428,Legit
+Evonik Industries,Germany,Chemicals,0.983,1.129,0.991,1.242,0.998,0.912,1.117,-0.0279,Legit
+Americanas SA,Brazil,Retail,1.674,1.329,1.377,1.567,1.267,1.086,1.311,0.1211,Fraud
+Omnicom Media fraud,USA,Media,1.714,1.399,1.398,1.688,1.156,1.015,1.151,0.1531,Fraud
+Amazon Inc,USA,E-commerce,1.083,1.119,1.133,1.233,1.061,0.915,0.977,-0.057,Legit
+Standard Bank Group,South Africa,Banking,1.037,1.074,1.001,1.024,0.967,0.885,1.065,-0.045,Legit
+Polpharma,Poland,Pharmaceuticals,1.572,1.499,1.839,1.705,1.181,1.071,1.344,0.1334,Fraud
+Lernout and Hauspie,Belgium,Technology,2.147,1.755,1.915,2.491,1.286,0.949,1.46,0.2299,Fraud
+Bavarian Nordic,Denmark,Biotechnology,1.946,1.533,1.538,1.615,1.243,1.09,1.276,0.1335,Fraud
+Vivendi Universal,France,Media,1.677,1.396,1.704,1.531,1.195,0.966,1.843,0.1555,Fraud
+Steinhoff International,South Africa,Retail,1.505,1.337,1.705,1.4,1.149,1.039,1.684,0.1201,Fraud
+SolarWinds 2020,USA,Software,1.477,1.554,1.755,1.944,1.269,1.17,1.262,0.106,Fraud
+Interloop Limited,Pakistan,Textiles,1.056,0.954,1.188,1.171,1.097,1.078,1.138,-0.059,Legit
+ABB Sweden,Sweden,Industrial,1.14,1.12,1.152,1.229,0.902,0.992,0.901,0.004,Legit
+Jaiprakash Associates,India,Construction,1.687,1.245,1.651,1.534,1.225,1.133,1.075,0.1239,Fraud
+ExxonMobil,USA,Oil & Gas,1.137,1.032,0.93,1.003,1.002,0.93,0.894,-0.049,Legit
+Symbol Technologies,USA,Technology,1.691,1.436,1.316,1.565,1.156,1.032,1.184,0.1292,Fraud
+AIB Group,Ireland,Banking,1.143,0.899,0.925,1.044,0.93,1.014,0.989,-0.0085,Legit
+Lehman 2006,USA,Financial Services,1.477,1.16,1.334,1.982,1.234,1.078,1.061,0.1189,Fraud
+Cisco Systems,USA,Networking,0.859,0.92,1.032,1.161,0.936,0.965,0.948,-0.053,Legit
+ArcelorMittal,Luxembourg,Steel,1.046,1.05,1.073,1.003,0.949,0.99,0.935,0.0034,Legit
+HSBC Holdings,UK,Banking,0.97,0.888,0.971,1.263,1.031,1.012,1.097,0.001,Legit
+Boeing Company,USA,Aerospace,1.105,1.07,1.171,0.94,1.071,1.074,1.019,-0.023,Legit
+BioNTech SE,Germany,Biotechnology,1.1,1.015,1.067,1.125,0.966,0.912,0.973,-0.0151,Legit
+GlaxoSmithKline,UK,Pharmaceuticals,0.917,1.058,1.129,0.951,1.064,1.066,1.032,-0.052,Legit
+Chevron Corporation,USA,Oil & Gas,1.103,0.964,1.148,1.284,0.966,1.015,0.919,-0.041,Legit
+Mitsubishi Chemical,Japan,Chemicals,0.843,1.001,1.013,1.144,1.033,1.001,1.01,-0.0257,Legit
+Evergrande Group,China,Real Estate,1.761,1.496,1.68,1.844,1.221,1.164,1.129,0.1679,Fraud
+Bank of America,USA,Banking,1.113,0.973,1.069,1.246,0.911,0.98,1.06,-0.01,Legit
+Geberit AG,Switzerland,Construction,0.873,1.09,1.133,1.034,1.053,0.939,1.133,-0.0462,Legit
+Pescanova,Spain,Food & Beverages,1.606,1.438,1.647,2.143,1.248,1.147,1.165,0.1114,Fraud
+Atlas Copco,Sweden,Industrial,1.132,0.916,1.141,0.998,1.084,1.069,0.985,-0.0253,Legit
+Workhorse Group,USA,Electric Vehicles,1.876,1.586,1.509,2.549,1.182,0.945,1.273,0.1542,Fraud
+Nestle SA,Switzerland,Food & Beverages,1.141,1.039,1.001,1.072,1.085,0.897,0.983,-0.053,Legit
+Teva Pharmaceutical,Israel,Pharmaceuticals,1.448,1.26,1.476,1.357,1.094,1.007,1.511,0.0907,Fraud
+ASML Holding,Netherlands,Semiconductors,0.915,1.129,1.014,0.949,1.086,1.041,1.058,-0.0075,Legit
+Wockhardt Limited,India,Pharmaceuticals,1.628,1.143,1.474,2.073,1.248,1.163,1.178,0.161,Fraud
+Berkshire Hathaway,USA,Conglomerate,1.136,0.904,1.074,1.211,0.954,0.883,0.977,-0.013,Legit
+Naver Corporation,South Korea,Technology,0.871,1.007,0.931,1.01,1.074,1.05,1.008,-0.0522,Legit
+Air Link Communication,Pakistan,Technology,1.024,0.916,1.145,1.225,1.1,1.017,1.018,-0.038,Legit
+IL&FS Financial Services,India,Financial Services,1.777,1.565,1.615,2.214,1.256,1.108,1.277,0.133,Fraud
+AXA Group,France,Insurance,0.832,1.02,1.151,1.118,1.047,0.949,0.948,-0.002,Legit
+Parmalat 2001,Italy,Food & Beverages,1.886,1.275,1.65,1.815,1.261,1.083,1.127,0.1034,Fraud
+Fresenius SE,Germany,Healthcare,0.864,1.036,1.011,1.204,1.036,1.062,0.911,-0.0185,Legit
+TSMC,Taiwan,Semiconductors,0.974,0.984,1.137,1.25,0.932,1.02,1.068,-0.04,Legit
+NMC Health 2018,UAE,Healthcare,1.48,1.325,1.516,1.866,1.22,1.118,1.365,0.0863,Fraud
+Braskem fraud,Brazil,Chemicals,1.937,1.378,1.675,1.621,1.251,1.089,1.328,0.141,Fraud
+Homestore Inc,USA,Technology,1.934,1.643,1.542,2.3,1.211,0.977,1.394,0.1859,Fraud
+Parmalat SpA,Italy,Food & Beverages,1.856,1.569,1.875,1.525,1.25,0.98,1.515,0.1952,Fraud
+Keyence Corporation,Japan,Industrial,0.947,1.119,0.924,1.249,1.092,0.911,1.16,-0.0263,Legit
+Sanofi Pakistan,Pakistan,Pharmaceuticals,1.098,0.983,1.051,1.184,1.089,1.056,0.999,-0.026,Legit
+SK Hynix,South Korea,Semiconductors,1.155,0.886,0.931,1.121,0.943,0.888,1.009,0.002,Legit
+MicroStrategy,USA,Software,1.532,1.31,1.224,1.787,1.088,1.063,1.216,0.145,Fraud
+SK Telecom,South Korea,Telecommunications,1.152,0.884,1.029,1.217,0.968,1.028,1.147,-0.0312,Legit
+W R Berkley,USA,Insurance,1.059,0.978,1.13,1.101,0.917,0.896,1.091,-0.0375,Legit
+Volkswagen Group,Germany,Automotive,0.867,1.126,0.91,0.96,1.024,1.001,1.153,-0.014,Legit
+Azgard Nine,Pakistan,Textiles,1.389,1.24,1.343,1.188,1.079,1.027,1.74,0.0935,Fraud
+Gazprom,Russia,Natural Gas,1.121,1.095,1.142,1.097,0.934,1.054,0.997,0.009,Legit
+Vringo Inc,USA,Technology,1.685,1.423,1.283,1.908,1.147,0.991,1.192,0.1515,Fraud
+Packages Limited,Pakistan,Packaging,1.155,0.873,1.022,0.945,1.041,0.915,0.926,-0.053,Legit
+Workday Inc,USA,Software,0.842,0.948,0.973,0.985,0.951,0.949,0.872,-0.0102,Legit
+National Bank Canada,Canada,Banking,1.14,0.95,1.014,1.201,1.063,1.011,1.11,-0.0107,Legit
+Morgan Stanley,USA,Financial Services,1.005,0.992,1.109,1.263,1.11,1.074,0.869,-0.023,Legit
+Hollinger International,USA,Media,1.301,1.233,1.396,1.217,1.07,1.037,1.33,0.0716,Fraud
+WorldCom 2001,USA,Telecommunications,1.928,1.285,1.324,1.6,1.246,1.107,1.306,0.1589,Fraud
+TotalEnergies,France,Oil & Gas,0.946,1.093,0.944,0.975,0.928,1.058,1.033,-0.014,Legit
+Ferrari NV,Italy,Automotive,0.926,0.934,0.944,1.036,0.977,1.001,0.942,-0.0031,Legit
+Kraft Heinz 2017,USA,Food & Beverages,1.627,1.564,1.424,2.095,1.16,1.078,1.356,0.1895,Fraud
+Kraft Heinz 2018,USA,Food & Beverages,1.24,1.196,1.762,1.104,1.048,1.015,1.312,0.0726,Fraud
+Sun Life Financial,Canada,Insurance,0.891,0.967,0.991,1.075,0.968,0.998,1.099,-0.0162,Legit
+Deccan Chronicle,India,Media,1.862,1.376,1.79,2.065,1.164,1.051,1.122,0.1483,Fraud
+Reliance Industries,India,Conglomerate,1.115,0.903,1.139,1.136,1.086,1.031,0.964,-0.03,Legit
+HealthSouth 2001,USA,Healthcare,1.69,1.217,1.799,2.157,1.126,1.112,1.241,0.0926,Fraud
+Microsoft Corporation,USA,Software,0.925,1.099,0.914,0.962,0.893,0.898,0.875,-0.054,Legit
+Shimano Inc,Japan,Consumer Goods,1.133,0.966,1.023,1.126,0.944,0.916,0.946,0.0011,Legit
+Eli Lilly,USA,Pharmaceuticals,1.077,1.007,1.106,1.097,1.056,0.982,0.902,-0.0248,Legit
+Gymboree 2017,USA,Retail,1.826,1.303,1.706,2.129,1.115,1.023,1.046,0.137,Fraud
+Zoom Video,USA,Software,0.854,0.875,1.15,1.224,1.015,0.993,1.076,-0.0299,Legit
+Abbott Pakistan,Pakistan,Pharmaceuticals,1.042,0.944,1.036,1.213,1.105,1.065,0.944,-0.04,Legit
+Allianz SE,Germany,Insurance,1.041,1.01,1.115,1.188,1.011,0.955,1.041,0.005,Legit
+PT Hanson International,Indonesia,Real Estate,1.717,1.404,1.881,1.629,1.174,0.97,1.552,0.1654,Fraud
+Invesco Ltd,USA,Financial Services,0.973,1.12,0.949,1.25,0.928,0.946,1.002,-0.0426,Legit
+Samsung Electronics,South Korea,Electronics,0.991,0.924,1.04,0.971,1.047,0.987,0.995,0.005,Legit
+Palo Alto Networks,USA,Cybersecurity,0.958,1.058,1.114,1.127,0.917,0.899,0.916,-0.0179,Legit
+Idorsia Pharma,Switzerland,Pharmaceuticals,1.823,1.409,1.711,1.677,1.181,1.158,1.185,0.1553,Fraud
+LyondellBasell,Netherlands,Chemicals,1.008,0.952,0.963,1.241,0.968,0.954,1.094,-0.0117,Legit
+Pfizer Pakistan,Pakistan,Pharmaceuticals,0.936,1.028,0.961,1.209,0.901,1.076,1.067,-0.01,Legit
+Graft-Tech International,USA,Materials,1.945,1.271,1.63,1.969,1.223,1.162,1.109,0.0993,Fraud
+Bank Alfalah,Pakistan,Banking,0.946,0.93,0.981,0.949,0.915,0.972,1.176,-0.029,Legit
+BT Group 2017,UK,Telecommunications,1.422,1.191,1.413,1.29,1.078,1.024,1.327,0.0868,Fraud
+Gjensidige,Norway,Insurance,0.973,0.909,1.014,1.189,0.995,1.043,0.957,-0.0125,Legit
+Compass Group,UK,Food Services,1.073,1.069,1.011,1.072,1.014,0.925,1.03,-0.0506,Legit
+Kimberly-Clark,USA,Consumer Goods,1.036,1.002,0.962,1.168,1.009,0.934,1.18,-0.026,Legit
+Dollarama Inc,Canada,Retail,1.059,1.007,1.082,1.08,0.972,0.955,0.922,-0.0421,Legit
+Satyam Computer Services,India,IT Services,1.869,1.528,1.678,1.493,1.218,0.928,1.424,0.1809,Fraud
+Cemex,Mexico,Construction,1.058,1.046,0.952,0.996,1.064,0.993,1.101,-0.054,Legit
+Raytheon Technologies,USA,Defense,0.931,1.041,1.002,1.001,0.949,0.976,1.041,-0.009,Legit
+Walmart Inc,USA,Retail,0.908,1.007,0.938,1.228,1.044,0.905,0.942,-0.042,Legit
+OGDC,Pakistan,Oil & Gas,0.856,1.034,1.016,1.068,1.045,0.986,0.945,0.01,Legit
+Akorn Inc,USA,Pharmaceuticals,1.559,1.326,1.406,1.435,1.095,1.011,1.468,0.0974,Fraud
+Olympus Corporation,Japan,Electronics,1.493,1.267,1.738,1.194,1.164,1.027,1.563,0.0924,Fraud
+Linde PLC,UK/Germany,Chemicals,1.134,0.87,1.075,1.056,0.946,0.928,0.95,-0.054,Legit
+Colony Sugar Mills,Pakistan,Food & Beverages,1.706,1.533,1.752,1.715,1.241,1.087,1.306,0.1609,Fraud
+Hoya Corporation,Japan,Healthcare,1.025,0.979,0.958,1.049,0.976,1.04,1.015,-0.0157,Legit
+Bristol-Myers Squibb,USA,Pharmaceuticals,0.993,0.974,1.092,1.102,1.082,0.903,0.893,-0.0185,Legit
+Energizer Holdings,USA,Consumer Goods,1.058,1.013,1.158,1.092,1.042,0.969,0.954,-0.0134,Legit
+Enel SpA,Italy,Utilities,0.849,0.882,1.08,1.13,1.03,1.028,0.991,-0.0167,Legit
+1MDB,Malaysia,Government/Finance,1.684,1.46,1.809,1.573,1.169,0.948,1.723,0.1851,Fraud
+Rite Aid Corporation,USA,Retail Pharmacy,1.619,1.384,1.205,1.375,1.074,1.01,1.466,0.088,Fraud
+Ezubao P2P,China,Financial Services,2.209,1.807,1.888,3.488,1.297,0.922,1.557,0.3001,Fraud
+Bridgestone,Japan,Automotive,0.915,0.987,1.05,1.223,0.942,0.91,1.149,0.001,Legit
+WorldCall Telecom,Pakistan,Telecommunications,1.779,1.46,1.819,1.832,1.223,1.035,1.177,0.0864,Fraud
+Fanuc Corporation,Japan,Robotics,0.922,1.044,0.916,1.234,1.082,0.928,0.931,-0.003,Legit
+Engro Corporation,Pakistan,Conglomerate,1.08,1.017,1.104,0.957,1.104,1.019,1.025,-0.021,Legit
+Bhushan Steel,India,Steel,1.711,1.2,1.404,2.03,1.215,1.02,1.175,0.1374,Fraud
+Clorox Company,USA,Consumer Goods,0.918,0.968,1.124,1.07,0.923,0.991,1.042,-0.0223,Legit
+HealthSouth 2000,USA,Healthcare,1.827,1.372,1.722,1.912,1.06,1.062,1.046,0.1818,Fraud
+International Paper,USA,Paper,1.13,1.124,1.063,0.996,0.976,0.915,0.957,-0.0254,Legit
+Hertz Global 2019,USA,Car Rental,1.64,1.211,1.541,1.622,1.197,1.014,1.17,0.1399,Fraud
+POSCO Holdings,South Korea,Steel,0.876,0.888,1.098,0.982,1.044,1.002,1.1,-0.036,Legit
+Wolseley PLC,UK,Distribution,0.939,0.876,1.156,1.107,1.093,0.929,0.972,-0.052,Legit
+ICI Pakistan,Pakistan,Chemicals,0.832,0.968,1.089,0.98,1.103,1.062,1.147,-0.031,Legit
+Mead Johnson Nutrition,USA,Food & Beverages,0.945,0.957,1.124,1.224,1.095,0.915,0.963,0.0018,Legit
+Hub Power Company,Pakistan,Utilities,0.956,0.966,0.966,1.119,0.968,0.953,1.087,0.001,Legit
+Pakistan Cables,Pakistan,Industrial,1.17,0.943,1.063,1.294,1.03,0.914,1.157,-0.025,Legit
+Nortel Networks,Canada,Telecommunications,1.523,1.305,1.383,1.48,1.148,1.027,1.555,0.1212,Fraud
+Sify Technologies,India,IT Services,1.759,1.284,1.745,2.071,1.208,1.046,1.106,0.0778,Fraud
+Dai-ichi Life,Japan,Insurance,1.059,1.09,1.083,1.223,1.052,0.907,0.98,-0.0218,Legit
+Rio Tinto,UK/Australia,Mining,1.015,0.955,1.077,0.934,0.899,0.955,0.944,-0.006,Legit
+KONE Corporation,Finland,Industrial,0.967,1.082,1.106,1.131,0.909,0.952,0.888,0.0046,Legit
+Franklin Templeton,USA,Financial Services,0.983,0.972,1.113,1.134,1.0,0.952,0.877,-0.0487,Legit
+Temenos AG,Switzerland,Software,0.98,1.116,0.976,1.089,0.97,0.895,0.885,-0.0249,Legit
+Saudi Basic Industries,Saudi Arabia,Chemicals,0.919,0.928,1.155,1.024,1.024,0.966,1.012,-0.032,Legit
+Merck & Co,USA,Pharmaceuticals,1.143,0.881,1.116,1.226,1.004,0.972,1.15,-0.0514,Legit
+Procter & Gamble,USA,Consumer Goods,1.108,1.034,0.94,0.98,1.081,1.008,0.907,-0.044,Legit
+Autonomy Corporation,UK,Software,1.759,1.44,1.505,1.897,1.201,0.962,1.324,0.1569,Fraud
+3M Company,USA,Diversified,0.89,1.045,0.998,1.171,1.09,1.012,1.08,-0.019,Legit
+Nippon Steel,Japan,Steel,0.844,1.047,0.92,1.048,0.96,1.034,0.918,-0.031,Legit
+Ericsson,Sweden,Telecommunications,0.876,0.912,1.035,1.025,0.937,1.023,1.099,-0.0209,Legit
+Global Indemnity Group,USA,Insurance,1.188,1.079,1.317,1.22,1.062,1.001,1.487,0.0527,Fraud
+Citigroup,USA,Banking,0.967,1.09,0.981,1.269,0.92,0.909,0.935,-0.036,Legit
+ImClone Systems,USA,Pharmaceuticals,1.52,1.311,1.231,1.517,1.122,1.039,1.25,0.0993,Fraud
+Tesla Inc,USA,Electric Vehicles,0.89,0.985,0.932,1.267,1.078,0.896,0.93,-0.002,Legit
+Serba Dinamik,Malaysia,Oil Services,1.746,1.403,1.608,1.608,1.156,1.009,1.534,0.1508,Fraud
+Sequential Brands,USA,Consumer Goods,1.388,1.247,1.41,1.293,1.058,1.005,1.446,0.1076,Fraud
+Toshiba 2014,Japan,Electronics,1.466,1.467,1.714,1.622,1.165,1.098,1.127,0.1753,Fraud
+STMicroelectronics,Switzerland,Semiconductors,0.952,0.881,1.138,1.056,1.1,0.939,1.154,0.0019,Legit
+Xerox Corporation,USA,Technology,1.424,1.256,1.267,1.26,1.108,1.053,1.2,0.0722,Fraud
+Sony Group,Japan,Electronics,1.09,1.006,0.914,1.137,0.981,1.021,0.859,-0.021,Legit
+LVMH,France,Luxury Goods,0.864,0.884,1.178,1.179,0.933,0.97,1.128,-0.051,Legit
+Abbott Laboratories,USA,Healthcare,1.031,0.919,1.014,0.988,0.895,0.982,1.009,-0.018,Legit
+HealthSouth Corporation,USA,Healthcare,1.553,1.186,1.3,1.332,1.074,1.022,1.237,0.1424,Fraud
+Tesco 2014,UK,Retail,1.231,1.117,1.184,1.154,1.043,1.008,1.176,0.0524,Fraud
+Parmalat 2000,Italy,Food & Beverages,1.868,1.474,1.403,1.553,1.129,1.053,1.11,0.1834,Fraud
+Agha Steel Industries,Pakistan,Steel,1.534,1.302,1.438,1.684,1.123,1.034,1.318,0.1132,Fraud
+Hexagon AB,Sweden,Technology,0.97,1.001,1.144,1.172,0.962,0.911,1.136,-0.0373,Legit
+ITC Limited,India,Conglomerate,1.08,0.921,0.911,1.284,0.91,1.045,0.909,-0.023,Legit
+Celanese Corporation,USA,Chemicals,1.088,0.878,0.988,1.268,0.998,0.954,1.143,-0.0291,Legit
+CSL Limited,Australia,Biotechnology,1.004,0.919,0.961,1.073,1.07,0.916,1.158,-0.025,Legit
+Wells Fargo,USA,Banking,0.848,0.97,1.091,0.977,0.892,1.039,0.894,-0.024,Legit
+CVS Health,USA,Healthcare,0.88,1.017,0.937,1.193,0.941,0.929,1.122,-0.0353,Legit
+Packaging Corp America,USA,Packaging,0.86,0.983,1.025,1.1,0.915,0.935,0.942,-0.0175,Legit
+CrowdStrike competitor,USA,Cybersecurity,1.601,1.512,1.831,1.731,1.201,1.074,1.364,0.1367,Fraud
+DNB Bank,Norway,Banking,0.856,1.063,1.021,1.017,0.943,1.045,0.886,-0.0248,Legit
+Commonwealth Bank,Australia,Banking,1.141,0.92,0.945,1.082,1.064,0.961,0.945,-0.06,Legit
+Roche Holding,Switzerland,Pharmaceuticals,0.853,0.92,1.042,1.049,1.024,1.066,0.994,-0.019,Legit
+BMW Group,Germany,Automotive,0.894,1.016,1.181,1.234,1.047,0.93,0.996,-0.019,Legit
+Experian PLC,UK,Financial Services,1.001,1.069,0.99,1.266,1.036,0.911,1.153,-0.0314,Legit
+Itau Unibanco,Brazil,Banking,1.093,1.013,1.041,1.048,1.096,0.93,0.983,-0.053,Legit
+Pfizer Inc,USA,Pharmaceuticals,0.835,1.123,1.121,1.16,0.95,0.898,0.978,-0.024,Legit
+Sino-Forest Corporation,Canada,Forestry,1.577,1.183,1.383,1.694,1.099,1.012,1.216,0.1065,Fraud
+Alibaba Group,China,E-commerce,0.961,0.881,1.03,1.008,0.983,0.883,1.115,0.003,Legit
+Royal Ahold,Netherlands,Retail,1.531,1.286,1.442,1.269,1.1,1.042,1.297,0.1041,Fraud
+Global Crossing,USA,Telecommunications,1.812,1.468,1.682,2.16,1.221,0.966,1.743,0.2123,Fraud
+MediaTek,Taiwan,Semiconductors,1.165,1.046,0.915,1.294,0.975,0.958,0.95,-0.0,Legit
+Quindell 2013,UK,Insurance Tech,1.719,1.449,1.36,1.744,1.273,1.103,1.219,0.161,Fraud
+Spectris PLC,UK,Industrial,1.016,1.112,1.022,1.249,1.076,0.976,0.928,0.0028,Legit
+Baidu Inc,China,Technology,1.091,0.958,1.15,1.019,0.914,0.942,0.966,-0.055,Legit
+ING Group,Netherlands,Banking,0.884,0.945,1.127,1.17,0.928,1.017,1.0,-0.0547,Legit
+Kingfisher Airlines,India,Aviation,1.521,1.552,1.57,1.566,1.115,1.146,1.191,0.1672,Fraud
+Nike Inc,USA,Consumer Goods,1.01,0.928,1.056,1.128,0.987,1.055,1.025,-0.013,Legit
+Greenland Holdings,China,Real Estate,1.653,1.299,1.563,1.776,1.247,1.142,1.075,0.1855,Fraud
+Luxottica,Italy,Consumer Goods,0.891,0.955,1.064,1.043,1.053,0.98,1.019,-0.0251,Legit
+China Huishan 2016,China,Food & Beverages,1.46,1.391,1.562,2.144,1.095,1.164,1.066,0.0964,Fraud
+Barrick Gold,Canada,Mining,1.04,1.095,1.077,0.99,0.914,0.97,0.958,-0.0385,Legit
+Valeant 2015,Canada,Pharmaceuticals,1.56,1.537,1.527,2.15,1.181,1.018,1.37,0.1711,Fraud
+Aker Solutions,Norway,Oil Services,1.04,0.981,1.044,1.261,1.088,1.011,1.098,-0.0359,Legit
+Lehman Brothers,USA,Financial Services,1.256,1.167,1.544,1.261,1.061,1.001,1.941,0.0792,Fraud
+McDonald's Corporation,USA,Food & Beverages,1.045,0.988,0.94,1.117,1.089,0.972,0.901,-0.05,Legit
+Roper Technologies fraud,USA,Industrial,1.775,1.282,1.452,2.141,1.218,1.058,1.142,0.122,Fraud
+Lockheed Martin,USA,Aerospace,0.94,0.957,0.985,0.975,0.994,0.972,1.056,-0.033,Legit
+Sui Northern Gas,Pakistan,Utilities,1.063,0.885,0.921,1.04,0.928,1.073,1.038,0.009,Legit
+Ventas Inc 2018,USA,Real Estate,1.92,1.355,1.556,1.588,1.069,1.079,1.146,0.1038,Fraud
+CPI Aerostructures,USA,Aerospace,1.549,1.326,1.336,1.317,1.068,1.027,1.292,0.0762,Fraud
+Shopify Inc,Canada,E-commerce,0.894,1.003,0.949,1.108,1.081,0.953,1.081,-0.0059,Legit
+DSV Panalpina,Denmark,Logistics,0.888,0.955,1.05,0.978,0.941,0.995,0.896,-0.0244,Legit
+PIBTL fraud,Pakistan,Telecommunications,1.482,1.435,1.586,2.234,1.139,1.074,1.103,0.089,Fraud
+Toshiba 2013,Japan,Electronics,1.65,1.231,1.583,2.056,1.104,1.06,1.368,0.1497,Fraud
+Assurant Inc,USA,Insurance,1.009,1.036,1.069,1.142,1.017,0.953,1.115,-0.018,Legit
+Wipro Limited,India,IT Services,1.174,1.09,0.972,1.058,0.924,1.058,0.948,-0.044,Legit
+Etisalat (e&),UAE,Telecommunications,1.142,1.108,1.178,1.273,1.08,1.022,1.163,-0.046,Legit
+NetSol Technologies,Pakistan,IT Services,0.869,1.136,1.059,0.946,0.999,1.022,1.076,-0.032,Legit
+Kerry Group,Ireland,Food & Beverages,1.06,0.877,1.039,1.259,1.057,1.03,1.038,-0.0117,Legit
+Fannie Mae,USA,Financial Services,1.264,1.119,1.303,1.273,1.06,1.012,1.521,0.0839,Fraud
+Yuhe International,China,Food & Beverages,1.592,1.431,1.826,1.816,1.217,1.022,1.268,0.1471,Fraud
+Azgard Nine 2009,Pakistan,Textiles,1.468,1.232,1.424,2.202,1.254,1.151,1.162,0.0931,Fraud
+Petrobras,Brazil,Oil & Gas,1.347,1.174,1.434,1.205,1.075,1.031,1.544,0.0627,Fraud
+Coloplast,Denmark,Medical Devices,0.991,1.01,1.086,1.012,0.949,1.026,1.123,-0.0501,Legit
+Dewan Farooque 2007,Pakistan,Automotive,1.507,1.195,1.449,2.177,1.235,1.148,1.337,0.0992,Fraud
+Bayer AG,Germany,Pharmaceuticals,1.09,0.879,0.937,1.197,0.973,0.959,1.035,-0.0187,Legit
+McDermott International,USA,Construction,1.55,1.444,1.678,1.857,1.211,1.158,1.3,0.1469,Fraud
+BYD Company,China,Electric Vehicles,1.124,1.111,1.19,1.029,1.027,0.971,0.998,-0.017,Legit
+Volvo Group,Sweden,Automotive,1.082,0.916,1.134,1.236,1.065,0.983,0.895,-0.0148,Legit
+Royal Bank of Canada,Canada,Banking,0.861,0.895,1.09,1.034,1.045,1.008,1.133,-0.0026,Legit
+TD Bank Group,Canada,Banking,0.947,1.022,0.955,1.055,1.094,1.016,0.984,-0.0193,Legit
+Penn West 2013,Canada,Oil & Gas,1.739,1.43,1.406,1.616,1.256,1.049,1.236,0.1462,Fraud
+Regeneron Pharma,USA,Biotechnology,0.984,0.929,1.005,1.09,0.983,0.907,0.994,-0.0151,Legit
+Wirecard 2018,Germany,Fintech,1.796,1.16,1.402,1.738,1.078,1.047,1.073,0.107,Fraud
+Nintendo Co,Japan,Gaming,0.99,0.885,1.092,0.998,0.911,1.073,1.156,-0.026,Legit
+Nishat Mills,Pakistan,Textiles,0.972,1.066,0.976,0.96,1.089,1.077,0.9,-0.059,Legit
+Tyco International,USA,Conglomerate,1.39,1.226,1.394,1.52,1.165,1.061,1.323,0.0792,Fraud
+Party City 2019,USA,Retail,1.444,1.416,1.349,1.862,1.071,1.071,1.11,0.1126,Fraud
+Globus Medical 2021,USA,Medical Devices,1.809,1.275,1.622,1.898,1.145,1.102,1.124,0.1565,Fraud
+Mitsubishi Materials,Japan,Materials,1.332,1.189,1.335,1.185,1.073,1.011,1.287,0.0674,Fraud
+Banca Monte dei Paschi,Italy,Banking,1.833,1.159,1.702,2.038,1.239,1.072,1.259,0.1694,Fraud
+MAS Holdings,Sri Lanka,Textiles,1.573,1.383,1.668,2.066,1.071,1.107,1.204,0.179,Fraud
+Salesforce,USA,Software,0.932,0.924,1.067,1.201,1.019,1.059,1.049,-0.009,Legit
+K-Electric irregularities,Pakistan,Utilities,1.343,1.233,1.439,1.304,1.09,1.04,1.457,0.0713,Fraud
+HDFC Bank,India,Banking,0.892,1.06,1.088,1.288,1.078,0.974,1.068,-0.058,Legit
+Freddie Mac,USA,Financial Services,1.293,1.227,1.44,1.276,1.063,1.028,1.521,0.0784,Fraud
+Ideanomics,USA,Electric Vehicles,1.941,1.636,1.569,2.519,1.208,0.943,1.335,0.1991,Fraud
+Safe Mix Concrete,Pakistan,Construction,1.503,1.547,1.447,1.885,1.081,1.152,1.085,0.1272,Fraud
+Ambev SA,Brazil,Beverages,1.109,1.117,0.92,1.007,0.91,0.908,0.888,-0.018,Legit
+Weir Group,UK,Industrial,0.943,1.038,1.147,0.97,1.015,0.986,1.08,0.0012,Legit
+Bank of China,China,Banking,0.848,1.108,0.998,1.136,0.927,1.022,0.922,-0.012,Legit
+Adobe Inc,USA,Software,0.987,1.071,0.95,1.102,0.946,0.955,0.975,-0.055,Legit
+EOH Holdings,South Africa,IT Services,1.516,1.282,1.549,1.438,1.08,1.03,1.504,0.0968,Fraud
+Denso Corporation,Japan,Automotive Parts,1.107,1.056,1.047,1.219,1.083,1.054,0.882,-0.043,Legit
+CrowdStrike,USA,Cybersecurity,1.056,0.941,1.085,1.1,0.988,0.939,1.089,-0.0482,Legit
+Fortinet,USA,Cybersecurity,0.968,0.907,1.078,0.95,1.049,0.929,0.992,-0.0345,Legit
+Kaisa Group,China,Real Estate,1.71,1.348,1.523,2.056,1.119,1.146,1.314,0.085,Fraud
+Oberthur Technologies,France,Technology,1.43,1.243,1.459,1.365,1.09,1.008,1.402,0.0935,Fraud
+Lucinda IT Solutions,India,IT Services,1.696,1.439,1.559,1.652,1.139,0.991,1.406,0.134,Fraud
+BBVA,Spain,Banking,1.09,1.036,0.965,1.259,0.987,1.054,0.886,-0.0476,Legit
+PPG Industries,USA,Chemicals,1.068,1.035,1.105,1.045,0.921,0.891,0.959,-0.0334,Legit
+Moderna Inc,USA,Biotechnology,0.96,0.91,1.151,0.962,1.066,0.907,0.898,-0.0107,Legit
+Saudi Aramco,Saudi Arabia,Oil & Gas,0.997,1.006,1.003,1.113,0.947,1.078,1.03,-0.013,Legit
+LG Electronics,South Korea,Electronics,0.986,0.933,1.102,1.247,0.987,0.957,0.941,-0.023,Legit
+iQIYI Inc,China,Media,1.95,1.29,1.647,2.092,1.203,1.131,1.353,0.0979,Fraud
+SAP SE,Germany,Software,0.96,1.015,1.128,1.022,1.075,0.935,1.07,0.002,Legit
+Raymond James,USA,Financial Services,0.995,0.994,1.03,1.17,0.964,0.944,1.105,-0.0481,Legit
+Luckin 2018,China,Food & Beverages,1.467,1.411,1.403,2.182,1.249,1.021,1.119,0.1519,Fraud
+Philips NV,Netherlands,Healthcare,0.845,1.004,0.98,0.987,0.986,1.001,0.94,-0.03,Legit
+Cendant Corporation,USA,Diversified,1.473,1.331,1.508,1.211,1.136,1.063,1.257,0.0818,Fraud
+Maple Leaf Cement,Pakistan,Construction,1.012,0.991,1.147,1.199,1.073,0.939,0.872,-0.032,Legit
+ZZZZ Best,USA,Services,2.173,1.864,2.063,3.198,1.419,0.917,1.548,0.3121,Fraud
+Hermes International,France,Luxury Goods,0.896,1.073,1.036,1.169,1.026,1.036,0.888,-0.0084,Legit
+Byco Petroleum,Pakistan,Oil & Gas,1.391,1.243,1.529,1.529,1.088,1.04,1.626,0.0979,Fraud
+Keyuan Petrochemicals,China,Chemicals,1.818,1.282,1.678,1.725,1.115,1.029,1.104,0.0887,Fraud
+Hon Hai Precision,Taiwan,Electronics,0.856,1.089,0.97,1.094,0.988,1.026,1.04,-0.009,Legit
+Lonza Group,Switzerland,Chemicals,0.982,0.944,1.107,1.088,1.007,0.946,1.105,-0.0269,Legit
+Orsted AS,Denmark,Renewable Energy,0.983,1.053,0.94,1.126,0.912,0.989,1.017,-0.0206,Legit
+Penn West Petroleum,Canada,Oil & Gas,1.445,1.228,1.382,1.27,1.116,1.031,1.52,0.1066,Fraud
+Astaldi Construction,Italy,Construction,1.94,1.353,1.291,1.892,1.19,1.149,1.328,0.1256,Fraud
+JinkoSolar fraud,China,Renewable Energy,1.475,1.45,1.553,2.076,1.212,1.113,1.202,0.1662,Fraud
+Ceridian HCM fraud,USA,Software,1.516,1.272,1.704,1.94,1.123,1.03,1.267,0.1555,Fraud
+Caterpillar Inc,USA,Industrial,1.158,0.989,1.152,1.082,0.894,0.925,0.932,-0.015,Legit
+Infineon Technologies,Germany,Semiconductors,0.92,0.899,1.104,1.105,0.977,0.991,0.946,-0.0394,Legit
+Starbucks Corporation,USA,Food & Beverages,0.944,1.123,1.158,0.985,0.907,1.011,0.945,-0.023,Legit
+BASF SE,Germany,Chemicals,0.875,0.884,1.001,1.272,0.965,1.049,0.91,-0.01,Legit
+Emirates Group,UAE,Aviation,1.168,0.872,0.945,1.015,1.012,1.016,1.018,-0.042,Legit
+Banco Santander,Spain,Banking,1.103,0.889,1.163,1.152,0.99,1.012,0.97,-0.0023,Legit
+Hikma Pharmaceuticals,UK,Pharmaceuticals,0.933,0.945,1.099,1.054,0.988,0.936,1.009,-0.0429,Legit
+Kobe Steel fraud,Japan,Steel,1.218,1.183,1.314,1.251,1.048,1.016,1.27,0.0647,Fraud
+Alliance Data Systems,USA,Financial Services,1.093,0.889,1.168,1.098,0.98,0.981,1.137,-0.0135,Legit
+Hana Microdisplay,USA,Technology,1.747,1.528,1.651,1.899,1.207,0.944,1.335,0.1593,Fraud
+Pakistan State Oil,Pakistan,Oil & Gas,0.852,0.898,1.035,1.24,1.009,0.935,1.011,-0.039,Legit
+Sandvik AB,Sweden,Industrial,0.931,1.127,1.056,1.103,1.088,1.043,1.006,-0.0434,Legit
+Unilever Pakistan,Pakistan,Consumer Goods,1.122,0.919,1.121,1.082,1.028,0.896,0.981,-0.011,Legit
+Intel Corporation,USA,Semiconductors,0.938,0.973,1.097,1.24,1.091,1.024,0.908,-0.019,Legit
+Georg Fischer,Switzerland,Industrial,1.107,1.1,0.929,1.051,1.053,0.914,0.979,-0.0453,Legit
+Loblaw Companies,Canada,Retail,1.143,0.996,0.977,0.985,0.915,1.042,0.899,-0.0087,Legit
+Lucent Technologies,USA,Telecommunications,1.752,1.442,1.515,1.536,1.145,0.97,1.428,0.1093,Fraud
+Hascol Petroleum,Pakistan,Oil & Gas,1.613,1.328,1.481,1.878,1.129,1.028,1.678,0.1366,Fraud
+Cemtrex Inc,USA,Technology,1.586,1.376,1.27,1.737,1.155,1.103,1.256,0.1285,Fraud
+Spectrum Brands,USA,Consumer Goods,1.102,1.077,1.022,1.105,1.027,0.934,1.061,-0.0121,Legit
+Toshiba Corporation,Japan,Electronics,1.298,1.182,1.386,1.236,1.093,1.02,1.334,0.073,Fraud
+CIFS Capital,China,Financial Services,1.483,1.472,1.763,1.962,1.087,1.167,1.298,0.1149,Fraud
+America Movil,Mexico,Telecommunications,0.875,1.125,0.995,1.159,0.901,0.992,0.958,0.008,Legit
+DCC PLC,Ireland,Conglomerate,0.892,1.128,1.105,1.039,0.967,1.039,1.024,-0.0125,Legit
+Lukoil,Russia,Oil & Gas,1.023,0.935,1.174,0.947,1.042,1.032,0.86,-0.043,Legit
+Carillion,UK,Construction,1.329,1.209,1.517,1.297,1.103,1.048,1.735,0.0993,Fraud
+Fauji Cement,Pakistan,Construction,0.866,0.933,1.113,1.231,1.043,1.02,0.977,-0.002,Legit
+KASB Bank,Pakistan,Banking,1.186,1.093,1.298,1.163,1.062,0.993,1.816,0.0566,Fraud
+Canadian Natural Resources,Canada,Oil & Gas,1.114,1.03,1.047,1.093,1.011,1.033,1.13,-0.028,Legit
+Shell PLC,UK,Oil & Gas,0.986,1.029,1.063,1.099,0.915,0.959,1.116,-0.008,Legit
+Vale SA,Brazil,Mining,1.009,0.933,0.993,1.283,1.104,1.024,0.907,-0.044,Legit
+L'Oreal,France,Consumer Goods,0.892,0.896,1.039,1.1,0.902,0.992,1.043,-0.012,Legit
+ServiceNow,USA,Software,0.978,0.944,1.09,1.101,1.033,0.898,0.985,-0.019,Legit
+Paramount Spinning,Pakistan,Textiles,1.606,1.19,1.828,1.631,1.273,1.148,1.279,0.1877,Fraud
+Telecard 2011,Pakistan,Telecommunications,1.652,1.144,1.314,2.166,1.259,1.097,1.315,0.142,Fraud
+SPAR Group fraud,South Africa,Retail,1.285,1.162,1.286,1.266,1.059,1.054,1.393,0.0571,Fraud
+Ping An Insurance,China,Insurance,1.104,1.03,0.983,1.237,1.097,0.886,1.116,-0.005,Legit
+Toyota Motor,Japan,Automotive,0.855,0.907,1.094,1.191,1.098,1.017,0.915,-0.04,Legit
+SQM irregularities,Chile,Mining,1.818,1.327,1.327,1.986,1.252,1.081,1.269,0.1789,Fraud
+Lucida Holdings,China,Technology,1.441,1.206,1.343,2.012,1.184,1.045,1.271,0.1632,Fraud
+Heineken,Netherlands,Beverages,0.865,0.937,1.129,1.121,1.045,0.985,0.902,-0.0377,Legit
+BP PLC,UK,Oil & Gas,0.872,0.939,0.915,1.054,1.037,0.952,1.05,0.01,Legit
+Meezan Bank irregularities,Pakistan,Banking,1.78,1.391,1.747,2.207,1.084,1.047,1.048,0.1767,Fraud
+American Express,USA,Financial Services,0.854,1.026,0.956,1.264,1.058,1.042,1.03,-0.032,Legit
+Kinross Gold,Canada,Mining,1.087,0.998,1.109,1.191,0.99,1.056,1.034,-0.0169,Legit
+Hascol 2017,Pakistan,Oil & Gas,1.761,1.297,1.485,1.681,1.119,1.16,1.254,0.1451,Fraud
+Genting Malaysia,Malaysia,Hospitality,1.401,1.258,1.409,1.272,1.103,1.006,1.49,0.0764,Fraud
+Allstate Corporation,USA,Insurance,0.899,1.05,1.048,1.078,0.928,0.959,0.924,-0.0169,Legit
+Grab Holdings,Singapore,Technology,1.704,1.497,1.555,2.208,1.13,0.971,1.277,0.1526,Fraud
+Daikin Industries,Japan,Industrial,1.059,0.937,1.125,1.259,1.028,0.978,0.919,-0.0073,Legit
+Fortum Corporation,Finland,Utilities,1.139,0.888,1.153,0.95,0.982,1.028,1.092,0.0037,Legit
+LPL Financial,USA,Financial Services,1.112,1.038,1.089,0.994,1.097,0.934,0.921,-0.0454,Legit
+Asahi Holdings fraud,Japan,Recycling,1.406,1.209,1.391,1.294,1.08,1.016,1.285,0.0792,Fraud
+Femsa,Mexico,Beverages,1.063,1.04,1.131,1.182,0.942,0.939,1.023,0.005,Legit
+OP Financial Group,Finland,Banking,0.911,0.871,0.926,1.038,1.035,0.988,1.024,-0.0056,Legit
+Honeywell,USA,Industrial,1.03,0.999,1.121,1.083,0.979,1.041,1.096,-0.059,Legit
+Snowflake Inc,USA,Software,1.05,0.928,0.947,1.219,0.974,1.027,1.036,-0.0066,Legit
+Valaris 2019,UK,Oil Services,1.275,1.138,1.573,1.162,1.078,0.997,1.868,0.0597,Fraud
+Segro PLC,UK,Real Estate,0.884,0.957,1.038,1.091,1.021,0.983,0.965,-0.0182,Legit
+Tencent Holdings,China,Technology,1.047,0.978,0.948,1.003,1.029,0.893,0.994,0.003,Legit
+Bear Stearns,USA,Financial Services,1.191,1.11,1.474,1.126,1.052,1.014,1.881,0.0688,Fraud
+Shin-Etsu Chemical,Japan,Chemicals,0.918,1.027,0.971,1.242,1.01,1.03,0.98,-0.023,Legit
+Hum Network fraud,Pakistan,Media,1.684,1.315,1.822,1.554,1.142,1.081,1.354,0.1734,Fraud
+Infosys,India,IT Services,1.111,1.012,0.951,1.063,1.041,1.014,0.881,-0.058,Legit
+Church & Dwight,USA,Consumer Goods,0.904,0.952,1.161,1.26,0.958,1.015,1.012,-0.0204,Legit
+TRG Pakistan,Pakistan,IT Services,1.027,0.989,1.162,1.052,1.006,1.026,1.159,-0.028,Legit
+Country Garden,China,Real Estate,1.54,1.483,1.467,2.164,1.214,1.054,1.043,0.184,Fraud
+Sahara Group,India,Conglomerate,1.828,1.364,1.634,1.728,1.077,1.056,1.13,0.1118,Fraud
+MiMedia Inc,USA,Technology,1.546,1.491,1.537,1.75,1.235,1.046,1.048,0.0972,Fraud
+Jiwasraya Insurance,Indonesia,Insurance,1.543,1.304,1.683,1.437,1.127,1.016,1.706,0.1224,Fraud
+CRH PLC,Ireland,Construction,0.936,1.082,1.012,1.162,1.096,0.995,1.101,-0.0115,Legit
+Kaseya fraud,USA,Software,1.451,1.465,1.543,1.999,1.262,1.039,1.233,0.148,Fraud
+Novo Nordisk,Denmark,Pharmaceuticals,1.037,0.927,0.953,0.991,1.05,0.999,0.991,-0.022,Legit
+Honda Motor,Japan,Automotive,1.151,1.015,1.021,1.0,0.919,0.967,0.986,-0.02,Legit
+Geodesic Ltd,India,IT Services,1.557,1.344,1.763,1.582,1.151,1.111,1.104,0.1551,Fraud
+Bank of Ireland,Ireland,Banking,1.027,0.914,1.077,1.145,1.068,0.917,1.067,-0.0531,Legit
+Pernod Ricard,France,Beverages,1.014,0.936,1.108,1.003,0.971,1.031,1.121,-0.0351,Legit
+ProQR Therapeutics,Netherlands,Biotechnology,1.64,1.361,1.843,2.004,1.179,1.076,1.102,0.1166,Fraud
+Enron 1999,USA,Energy,1.649,1.153,1.397,1.894,1.066,1.042,1.254,0.1377,Fraud
+Humana Inc,USA,Healthcare Insurance,1.052,0.877,0.924,1.201,0.948,0.948,0.921,-0.0519,Legit
+Canon Inc,Japan,Electronics,1.044,1.12,1.164,1.085,1.001,0.985,0.951,-0.011,Legit
+Fortescue Metals,Australia,Mining,0.882,1.011,0.984,1.286,0.952,1.054,1.026,-0.002,Legit
+Dassault Aviation,France,Aerospace,1.075,1.033,1.113,1.183,0.967,0.898,1.028,-0.0062,Legit
+Wirecard Romania,Romania,Fintech,1.717,1.374,1.534,1.762,1.102,1.122,1.229,0.1019,Fraud
+Cloudflare,USA,Technology,0.926,0.917,1.096,1.042,0.968,0.891,1.122,-0.021,Legit
+AstraZeneca,UK,Pharmaceuticals,1.123,1.051,1.131,0.93,0.947,1.08,0.866,-0.048,Legit
+US Bancorp,USA,Banking,0.95,0.987,1.146,1.219,1.048,1.049,1.137,-0.006,Legit
+Smurfit Kappa,Ireland,Packaging,1.135,1.097,1.104,0.961,0.928,0.927,0.964,-0.0153,Legit
+Macter International,Pakistan,Pharmaceuticals,1.933,1.486,1.482,2.099,1.063,1.096,1.19,0.1524,Fraud
+Avery Dennison,USA,Packaging,1.03,0.921,0.947,1.041,1.09,0.95,1.05,-0.0068,Legit
+LiqTech International,Denmark,Industrial,1.431,1.538,1.582,2.048,1.223,1.117,1.16,0.083,Fraud
+Coca-Cola Company,USA,Beverages,1.16,1.113,0.97,1.16,1.055,0.984,0.943,-0.0,Legit
+Kohat Cement,Pakistan,Construction,1.143,1.121,1.06,1.249,1.047,0.9,0.877,-0.039,Legit
+NVIDIA Corporation,USA,Semiconductors,1.131,0.982,0.969,0.942,0.996,0.904,1.098,-0.046,Legit
+Computer Associates,USA,Software,1.508,1.274,1.2,1.469,1.076,1.031,1.294,0.0863,Fraud
+Enron 1998,USA,Energy,1.763,1.151,1.43,1.691,1.222,1.118,1.334,0.085,Fraud
+Ajinomoto Co,Japan,Food & Beverages,0.842,1.013,0.923,1.115,0.955,1.066,0.875,-0.0062,Legit
+Palantir Technologies,USA,Software,1.08,1.096,1.1,1.26,1.02,0.953,1.038,-0.0422,Legit
+China Mobile,China,Telecommunications,0.887,0.937,1.045,1.121,1.02,1.072,1.062,-0.022,Legit
+Hindustan Unilever,India,Consumer Goods,1.061,0.969,0.994,1.144,1.036,0.881,0.923,-0.014,Legit
+Neste Corporation,Finland,Oil & Gas,1.047,0.979,1.168,1.066,1.074,1.053,0.979,-0.014,Legit
+BNP Paribas,France,Banking,1.098,0.877,1.005,0.973,0.933,0.953,0.947,0.004,Legit
+Satyam 2006,India,IT Services,1.569,1.416,1.335,1.843,1.16,1.163,1.329,0.1053,Fraud
+Tyco 2000,USA,Conglomerate,1.887,1.498,1.448,1.572,1.253,1.162,1.068,0.1309,Fraud
+Tenax Therapeutics,USA,Pharmaceuticals,1.639,1.267,1.344,1.833,1.267,1.118,1.338,0.1458,Fraud
+Hartford Financial,USA,Insurance,1.1,1.054,0.994,1.143,0.917,0.914,0.904,-0.0367,Legit
+Wirecard 2017,Germany,Fintech,1.709,1.558,1.49,1.927,1.242,1.109,1.324,0.1414,Fraud
+Recruit Holdings,Japan,HR Technology,0.894,1.057,1.042,1.243,1.008,1.006,0.887,-0.053,Legit
+KT Corporation,South Korea,Telecommunications,0.864,1.111,1.145,1.126,0.907,1.057,0.961,0.0027,Legit
+Visa Inc,USA,Financial Services,0.859,1.026,1.075,1.066,0.966,0.901,1.074,-0.015,Legit
+Progressive Corporation,USA,Insurance,1.062,1.038,1.17,1.123,0.998,0.915,0.961,-0.0279,Legit
+Nikola Corporation,USA,Electric Vehicles,1.946,1.724,1.647,3.205,1.228,0.897,1.32,0.2137,Fraud
+Mastercard,USA,Financial Services,0.872,0.914,0.978,1.035,1.014,1.039,1.037,-0.005,Legit
+Oracle Corporation,USA,Software,1.142,1.094,1.13,0.983,1.072,1.066,0.873,-0.043,Legit
+Agnico Eagle,Canada,Mining,0.858,1.002,0.998,1.089,0.911,1.04,0.892,-0.0031,Legit
+ZST Digital Networks,China,Technology,1.478,1.235,1.671,1.75,1.188,1.086,1.215,0.1239,Fraud
+Lotte Chemical,Pakistan,Chemicals,1.123,1.005,1.131,1.248,1.085,0.933,1.155,-0.004,Legit
+Gentiva Health,USA,Healthcare,1.287,1.167,1.435,1.186,1.094,1.019,1.277,0.0677,Fraud
+Systems Limited,Pakistan,IT Services,0.945,0.967,1.043,1.208,0.92,0.882,1.121,-0.003,Legit
+Straumann Holding,Switzerland,Medical Devices,1.106,1.07,1.122,0.995,0.988,0.964,1.066,-0.0407,Legit
+Diageo,UK,Beverages,1.137,1.112,1.148,1.075,1.107,0.95,0.958,-0.048,Legit
+Sunac China,China,Real Estate,1.888,1.245,1.54,1.969,1.143,1.015,1.321,0.0959,Fraud
+Air Products,USA,Chemicals,1.036,1.071,1.017,1.095,0.933,1.001,0.952,-0.005,Legit
+NN Group,Netherlands,Insurance,1.053,0.892,1.164,0.962,1.005,0.981,1.157,-0.0218,Legit
+Groupon 2012,USA,E-commerce,1.761,1.378,1.346,2.234,1.141,0.985,1.206,0.1514,Fraud
+Steinhoff 2016,South Africa,Retail,1.541,1.197,1.813,1.941,1.164,1.136,1.306,0.0969,Fraud
+Indus Motor,Pakistan,Automotive,0.915,0.969,1.076,1.298,0.986,0.988,0.85,-0.056,Legit
+Theranos,USA,Healthcare Tech,1.939,1.584,1.768,2.201,1.251,0.913,1.327,0.2574,Fraud
+Lightspeed Commerce,Canada,Software,1.101,0.931,0.957,1.005,1.02,1.027,1.06,-0.0444,Legit
+Nishat Chunian,Pakistan,Textiles,1.233,1.14,1.29,1.19,1.071,1.039,1.433,0.0498,Fraud
+Eastman Chemical,USA,Chemicals,1.058,1.042,0.941,1.144,1.06,1.018,0.894,-0.0457,Legit
+Partners Group,Switzerland,Financial Services,1.107,0.966,1.157,1.265,0.992,0.941,0.981,-0.0234,Legit
+Sunbeam Corporation,USA,Consumer Goods,1.884,1.552,1.347,1.785,1.2,1.015,1.159,0.1188,Fraud
+Korea Electric Power,South Korea,Utilities,1.028,1.066,1.098,1.071,0.915,0.919,0.94,-0.0049,Legit
+Digital Turbine 2021,USA,Technology,1.686,1.179,1.472,1.77,1.207,1.147,1.149,0.1548,Fraud
+Lotte Corporation,South Korea,Conglomerate,0.965,1.103,1.003,1.189,0.928,1.068,1.08,-0.025,Legit
+Berjaya Group,Malaysia,Conglomerate,1.317,1.177,1.43,1.289,1.065,1.039,1.505,0.0699,Fraud
+Embraer,Brazil,Aerospace,1.149,1.052,0.955,1.221,1.099,0.972,1.077,-0.022,Legit
+Lululemon 2013,Canada,Retail Apparel,1.282,1.118,1.234,1.578,1.081,1.019,1.149,0.0591,Fraud
+Nokia Corporation,Finland,Telecommunications,1.099,0.988,1.048,1.091,0.912,0.973,1.104,-0.0116,Legit
+Weyerhaeuser,USA,Forestry,0.87,1.025,1.001,1.067,0.958,0.96,0.895,-0.0009,Legit
+Smith & Nephew,UK,Medical Devices,1.012,1.113,1.094,0.985,1.023,0.996,0.94,-0.0148,Legit
+Ameriprise Financial,USA,Financial Services,1.019,1.119,0.978,1.074,0.937,1.005,0.995,-0.0532,Legit
+Capgemini,France,IT Services,1.015,0.954,0.94,1.158,0.961,0.998,0.994,-0.0136,Legit
+Unilever,UK,Consumer Goods,1.119,1.031,1.094,0.976,1.029,0.968,0.891,-0.028,Legit
+Satyam 2007,India,IT Services,1.948,1.368,1.833,2.15,1.063,1.125,1.265,0.1368,Fraud
+Asahi Breweries,Japan,Beverages,1.101,0.94,1.019,1.063,0.981,0.992,1.157,-0.0414,Legit
+Maruti Suzuki,India,Automotive,1.037,1.052,0.976,1.275,1.022,0.9,0.914,0.0,Legit
+Fauji Foods,Pakistan,Food & Beverages,0.912,1.057,1.098,1.093,1.035,1.058,0.875,-0.008,Legit
