@@ -1,0 +1,2 @@
+accuracy,auc_roc,total,fraud,legit,TN,FP,FN,TP
+0.945,0.9871,1036,454,582,111,6,7,84
