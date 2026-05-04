@@ -128,7 +128,7 @@ with c1:
                             hole=0.55, marker_colors=["#17C660", "#EB1D1D"], textfont_size=11))
     fig1.update_layout(**{**PL, 'showlegend': True},
                        legend=dict(orientation='h', y=-0.08, font=dict(color='#94a3b8')))
-    st.plotly_chart(fig1, use_container_width=True)
+    st.plotly_chart(fig1, use_container_width=True, config={'displayModeBar': False})
 
 with c2:
     st.caption("Fraud Probability — Top 25")
@@ -138,7 +138,7 @@ with c2:
                             marker_color=colors, marker_line_width=0))
     fig2.update_layout(**PL, xaxis=dict(tickangle=45, tickfont=dict(size=9)),
                        yaxis=dict(range=[0, 115], title='%', gridcolor='#1e293b'))
-    st.plotly_chart(fig2, use_container_width=True)
+    st.plotly_chart(fig2, use_container_width=True, config={'displayModeBar': False})
 
 with c3:
     st.caption("Ratio Trigger Frequency")
@@ -152,7 +152,7 @@ with c3:
             colors3.append('#EB1D1D' if freq > 0.6 else "#DCC023" if freq > 0.3 else "#1F4CE1")
         fig3 = go.Figure(go.Bar(x=RATIOS, y=counts, marker_color=colors3, marker_line_width=0))
         fig3.update_layout(**PL, yaxis=dict(title='# flagged', gridcolor='#1e293b'))
-        st.plotly_chart(fig3, use_container_width=True)
+        st.plotly_chart(fig3, use_container_width=True, config={'displayModeBar': False})
     else:
         st.info("No fraud detected.")
 
@@ -166,7 +166,7 @@ with c4:
     fig4.update_layout(**{**PL, 'showlegend': True, 'barmode': 'group'},
                        legend=dict(orientation='h', y=-0.08, font=dict(color='#94a3b8')),
                        yaxis=dict(gridcolor='#1e293b'))
-    st.plotly_chart(fig4, use_container_width=True)
+    st.plotly_chart(fig4, use_container_width=True, config={'displayModeBar': False})
 
 # Root cause cards
 if len(fraud) > 0:
